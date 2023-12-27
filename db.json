@@ -1,16 +1,28 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "username": "jonas harberk",
+      "email": "jonas@gmail.com",
+      "password": "Jonas123"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "username": "jddddd",
+      "email": "dfd@gmail.com",
+      "password": "dfdwwwwww",
+      "id": 3
+    },
+    {
+      "username": "jddddd2",
+      "email": "dfd2@gmail.com",
+      "password": "dfdwwwwww2",
+      "id": 4
+    },
+    {
+      "username": "testing",
+      "email": "testing@gmail.com",
+      "password": "testing",
+      "id": 5
     }
   ]
 }
